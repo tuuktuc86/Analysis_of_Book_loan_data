@@ -1,10 +1,17 @@
-# Analysis_of_Book_loan_data
+# Analysis_of_Book_loan_data with R
 
 ## 개요
 본 내용은 '빅데이터의 과학적 탐구 수업'의 마지막 프로젝트에 관한 것입니다. 팀은 R언어를 활용하여 8600여건의 도서 대출 정보를 분석하였고 분석한 내용을 기반으로 도서관 운영의 개선 방안을 제시하였습니다.<br>
 
 ## 데이터 특성
+<figure>
+    <img src="https://github.com/tuuktuc86/Analysis_of_Book_loan_data/blob/main/images/Analysis%20of%20Book%20Loan%20Data_page-0023.jpg">
+</figure>
 
+- 전체 데이터 8563건<br>
+- column : 식별번호, 도서명, 저자명, 대출일
+- 크롤링을 활용하여 각 도서의 category 정보 추출하여 추가 활용
+- yes24 추천 시스템 정보를 활용하여 특정 도서를 빌렸을 경우 다음 도서를 추천
 
 ## 발표 ppt
 <figure>
